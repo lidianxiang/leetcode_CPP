@@ -5,8 +5,26 @@ leetcode with CPP
 |NO.|Title|Solution|Difficulty|Tag|
 |:---:|:----------:|:---------:|:----:|:----:|
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)|Easy|Mapping|
-|27|[移动元素](https://leetcode-cn.com/problems/remove-element/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.cpp)|Easy||
-
+|26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/26-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.cpp)|Easy|双指针|
+|27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.cpp)|Easy||
+|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/35-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp)|Easy|二分查找|
+|53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp)|Easy|动态规划|
+|66|[加一](https://leetcode-cn.com/problems/plus-one/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/66-%E5%8A%A0%E4%B8%80.cpp)|Easy||
+|88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/88-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)|Easy||
+|118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/118-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.cpp)|Easy||
+|119|[杨辉三角II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/119-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.cpp)|Easy|动态规划|
+|121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/121-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.cpp)|Easy||
+|122|[买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/122-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII.cpp)|Easy|贪心|
+|167|[两数之和II-数组有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8CII-%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)|Easy|双指针|
+|169|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/169-%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.cpp)|Easy|哈希、众数、Boyer-Moore|
+|217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp)|Easy|set、排序、哈希|
+|219|[存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/219-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.cpp)|Easy|哈希、滑动窗口|
+|268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/268-%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.cpp)|Easy|数学、异或|
+|283|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/283-%E7%A7%BB%E5%8A%A8%E9%9B%B6.cpp)|Easy|双指针|
+|509|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/509-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.cpp)|Easy||
+|867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/867-%E8%BD%AC%E7%BD%AE%E7%9F%A9%E9%98%B5.cpp)|Easy||
+|977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.cpp)|Easy|双指针|
+|1588|[所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1588-%E6%89%80%E6%9C%89%E5%A5%87%E6%95%B0%E9%95%BF%E5%BA%A6%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%92%8C.cpp)|Easy|动态规划、滑动窗口|
 
 ### 2.链表
 |NO.|Title|Solution|Difficulty|Tag|
