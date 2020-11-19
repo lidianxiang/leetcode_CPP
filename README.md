@@ -59,3 +59,8 @@ leetcode with CPP
 |1019|[链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/1019-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E8%8A%82%E7%82%B9.cpp)|Medium|栈|
 |剑指 offer06|[从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87%20offer06-%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)|Easy|递归法|
 |剑指 offer22|[链表中的倒数第K个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87%20offer22-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.cpp)|Easy|快慢指针|
+
+### 3.树
+|NO.|Title|Solution|Difficulty|Tag|
+|:---:|:----------:|:---------:|:----:|:----:|
+|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/100-%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.cpp)|Easy|DFS、BFS|
