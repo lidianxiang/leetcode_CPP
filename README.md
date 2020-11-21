@@ -2,7 +2,7 @@ leetcode with CPP
 =====================
 
 ### 1.数组
-|NO.|Title|Solution|Difficulty|Tag|
+|NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)|Easy|Mapping|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/26-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.cpp)|Easy|双指针|
@@ -27,7 +27,7 @@ leetcode with CPP
 |1588|[所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1588-%E6%89%80%E6%9C%89%E5%A5%87%E6%95%B0%E9%95%BF%E5%BA%A6%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%92%8C.cpp)|Easy|动态规划、滑动窗口|
 
 ### 2.链表
-|NO.|Title|Solution|Difficulty|Tag|
+|NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.cpp)|Medium|模拟法|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/19-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)|Medium|快慢指针|
@@ -61,7 +61,7 @@ leetcode with CPP
 |剑指 offer22|[链表中的倒数第K个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87%20offer22-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.cpp)|Easy|快慢指针|
 
 ### 3.树
-|NO.|Title|Solution|Difficulty|Tag|
+|NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/100-%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.cpp)|Easy|DFS、BFS|
 |101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/101-%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)|Easy|递归法、迭代法|
