@@ -74,3 +74,5 @@ leetcode with CPP
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/112-%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.cpp)|Easy|BFS、DFS|
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/226-%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)|Easy|递归法|
 |235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/235-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.cpp)|Easy|迭代法|
+|257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/257-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.cpp)|Easy|BFS、DFS|
+|404|[左子树之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/404-%E5%B7%A6%E5%AD%90%E6%A0%91%E4%B9%8B%E5%92%8C.cpp)|Easy|DFS、BFS|
