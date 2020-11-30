@@ -82,3 +82,5 @@ leetcode with CPP
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/543-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.cpp)|Easy|递归法|
 |559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/559-N%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.cpp)|Medium|递归法、迭代法|
 |563|[二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/563-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.cpp)|Easy|DFS|
+|589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/589-N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.cpp)|Easy|递归法、迭代法|
+|590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/590-N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.cpp)|Easy|递归法、迭代法|
