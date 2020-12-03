@@ -88,3 +88,4 @@ leetcode with CPP
 |572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/572-%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%A0%91%E7%9A%84%E5%AD%90%E6%A0%91.cpp)|Easy|dfs递归法|
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/589-N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.cpp)|Easy|递归法、迭代法|
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/590-N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.cpp)|Easy|递归法、迭代法|
+|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/617-%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)|Easy|递归法、迭代法|
