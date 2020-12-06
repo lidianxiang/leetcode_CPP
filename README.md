@@ -64,6 +64,7 @@ leetcode with CPP
 |NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |94|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/94-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.cpp)|Medium|迭代法、递归法|
+|95|[不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/95-%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%95%B0II.cpp)|Medium|递归法|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/100-%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.cpp)|Easy|DFS、BFS|
 |101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/101-%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)|Easy|递归法、迭代法|
 |102|[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/102-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.cpp)|Medium|BFS|
