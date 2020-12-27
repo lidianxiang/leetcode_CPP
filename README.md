@@ -124,3 +124,4 @@ leetcode with CPP
 |NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/13-%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.cpp)|Easy|模拟法|
+|14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/14-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.cpp)|Easy|横向扫描|
