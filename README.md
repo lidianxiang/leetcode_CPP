@@ -119,3 +119,8 @@ leetcode with CPP
 |889|[根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/889-%E6%A0%B9%E6%8D%AE%E5%89%8D%E5%BA%8F%E5%92%8C%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)|Medium|递归法|
 |958|[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/958-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%AE%8C%E5%85%A8%E6%80%A7%E6%A3%80%E9%AA%8C.cpp)|Medium|BFS|
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%A0%91/965-%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)|Easy|递归法|
+
+### 4.字符串
+|NO.|Title|Solution|Difficulty|Tip|
+|:---:|:----------:|:---------:|:----:|:----:|
+|13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/13-%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.cpp)|Easy|模拟法|
