@@ -128,3 +128,5 @@ leetcode with CPP
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/20-%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.cpp)|Easy|栈|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/28-%E5%AE%9E%E7%8E%B0strStr().cpp)|Easy|KMP|
 |38|[外观数列](https://leetcode-cn.com/problems/count-and-say/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/38-%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.cpp)|Easy|递归法|
+|58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/58-%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.cpp)|Easy|模拟法|
+|67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/67-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.cpp)|Easy||
