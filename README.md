@@ -127,3 +127,4 @@ leetcode with CPP
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/14-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.cpp)|Easy|横向扫描|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/20-%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.cpp)|Easy|栈|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/28-%E5%AE%9E%E7%8E%B0strStr().cpp)|Easy|KMP|
+|38|[外观数列](https://leetcode-cn.com/problems/count-and-say/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/38-%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.cpp)|Easy|递归法|
