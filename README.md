@@ -130,3 +130,5 @@ leetcode with CPP
 |38|[外观数列](https://leetcode-cn.com/problems/count-and-say/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/38-%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.cpp)|Easy|递归法|
 |58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/58-%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.cpp)|Easy|模拟法|
 |67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/67-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.cpp)|Easy||
+|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/125-%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)|Easy|双指针法|
+|344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|Easy|双指针法|
