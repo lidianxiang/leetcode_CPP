@@ -133,3 +133,4 @@ leetcode with CPP
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/125-%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)|Easy|双指针法|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|Easy|双指针法|
 |345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/345-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.cpp)|Easy|双指针法|
+|383|[赎金信](https://leetcode-cn.com/problems/ransom-note/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/383-%E8%B5%8E%E9%87%91%E4%BF%A1.cpp)|Easy|哈希表|
