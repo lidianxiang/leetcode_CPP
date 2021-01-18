@@ -141,3 +141,4 @@ leetcode with CPP
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/520-%E6%A3%80%E6%B5%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D.cpp)|Easy|数组存储|
 |521|[最长特殊序列I](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/521-%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97I.cpp)|Easy||
 |541|[反转字符串II](https://leetcode-cn.com/problems/reverse-string-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/541-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2II.cpp)|Easy||
+|551|[学生出勤记录I](https://leetcode-cn.com/problems/student-attendance-record-i/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/551-%E5%AD%A6%E7%94%9F%E5%87%BA%E5%8B%A4%E8%AE%B0%E5%BD%95I.cpp)|Easy|find()函数|
