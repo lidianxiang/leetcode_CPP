@@ -149,3 +149,4 @@ leetcode with CPP
 |788|[旋转数字](https://leetcode-cn.com/problems/rotated-digits/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/788-%E6%97%8B%E8%BD%AC%E6%95%B0%E5%AD%97.cpp)|Easy||
 |804|[唯一的莫尔斯密码](https://leetcode-cn.com/problems/unique-morse-code-words/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/804-%E5%94%AF%E4%B8%80%E7%9A%84%E8%8E%AB%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D.cpp)|Easy|遍历|
 |819|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/819-%E6%9C%80%E5%B8%B8%E8%A7%81%E7%9A%84%E5%8D%95%E8%AF%8D.cpp)|Easy|哈希+集合|
+|824|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/824-%E5%B1%B1%E7%BE%8A%E6%8B%89%E4%B8%81%E6%96%87.cpp)|Easy||
