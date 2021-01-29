@@ -153,3 +153,4 @@ leetcode with CPP
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/859-%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|Easy|双指针|
 |893|[特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/893-%E7%89%B9%E6%AE%8A%E7%AD%89%E4%BB%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BB%84.cpp)|Easy|集合set|
 |917|[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/917-%E4%BB%85%E4%BB%85%E5%8F%8D%E8%BD%AC%E5%AD%97%E6%AF%8D.cpp)|Easy|双指针|
+|925|[长按键入](https://leetcode-cn.com/problems/long-pressed-name/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/925-%E9%95%BF%E6%8C%89%E9%94%AE%E5%85%A5.cpp)|Easy|双指针|
