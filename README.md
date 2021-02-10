@@ -162,3 +162,8 @@ leetcode with CPP
 |925|[长按键入](https://leetcode-cn.com/problems/long-pressed-name/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/925-%E9%95%BF%E6%8C%89%E9%94%AE%E5%85%A5.cpp)|Easy|双指针|
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/929-%E7%8B%AC%E7%89%B9%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80.cpp)|Easy||
 |937|[重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/937-%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6.cpp)|Easy|stable_sort|
+
+### 5. 回溯
+|NO.|Title|Solution|Difficulty|Tip|
+|:---:|:----------:|:---------:|:----:|:----:|
+|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/17-%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.cpp)|Medium|回溯|
