@@ -170,3 +170,9 @@ leetcode with CPP
 |:---:|:----------:|:---------:|:----:|:----:|
 |17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/17-%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.cpp)|Medium|回溯|
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/22-%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.cpp)|Medium|回溯|
+
+
+### 6. 位运算
+|NO.|Title|Solution|Difficulty|Tip|
+|:---:|:----------:|:---------:|:----:|:----:|
+|89|[格雷编码](https://leetcode-cn.com/problems/gray-code/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/89-%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.cpp)|Medium|位运算|
