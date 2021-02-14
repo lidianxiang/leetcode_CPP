@@ -170,6 +170,8 @@ leetcode with CPP
 |:---:|:----------:|:---------:|:----:|:----:|
 |17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/17-%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.cpp)|Medium|回溯|
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/22-%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.cpp)|Medium|回溯|
+|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/39-%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.cpp)|Meidum|回溯|
+
 
 
 ### 6. 位运算
