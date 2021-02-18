@@ -174,6 +174,7 @@ leetcode with CPP
 |40|[组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/40-%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.cpp)|Meidum|回溯|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/46-%E5%85%A8%E6%8E%92%E5%88%97.cpp)|Medium|回溯|
 |47|[全排列II](https://leetcode-cn.com/problems/permutations-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/47-%E5%85%A8%E6%8E%92%E5%88%97.cpp)|Medium|回溯|
+|77|[组合](https://leetcode-cn.com/problems/combinations/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/77-%E7%BB%84%E5%90%88.cpp)|Medium|回溯|
 
 ### 6. 位运算
 |NO.|Title|Solution|Difficulty|Tip|
