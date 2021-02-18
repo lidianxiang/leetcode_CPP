@@ -172,7 +172,7 @@ leetcode with CPP
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/22-%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.cpp)|Medium|回溯|
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/39-%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.cpp)|Meidum|回溯|
 |40|[组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/40-%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.cpp)|Meidum|回溯|
-
+|46|[全排列](https://leetcode-cn.com/problems/permutations/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/46-%E5%85%A8%E6%8E%92%E5%88%97.cpp)|Medium|回溯|
 
 ### 6. 位运算
 |NO.|Title|Solution|Difficulty|Tip|
