@@ -180,6 +180,7 @@ leetcode with CPP
 |79|[单词搜索](https://leetcode-cn.com/problems/word-search/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/79-%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.cpp)|Medium|回溯|
 |90|[子集II](https://leetcode-cn.com/problems/subsets-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/90-%E5%AD%90%E9%9B%86II.cpp)|Medium|回溯|
 |93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/93-%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.cpp)|Medium|回溯|
+|131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/131-%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)|Medium|回溯|
 
 ### 6. 位运算
 |NO.|Title|Solution|Difficulty|Tip|
