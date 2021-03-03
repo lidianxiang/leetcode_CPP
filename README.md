@@ -184,6 +184,7 @@ leetcode with CPP
 |131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/131-%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)|Medium|回溯|
 |140|[单词拆分](https://leetcode-cn.com/problems/word-break-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/140-%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86II.cpp)|Hard|回溯|
 |216|[组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/216-%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CIII.cpp)|Medium|回溯|
+|306|[累加数](https://leetcode-cn.com/problems/additive-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/306-%E7%B4%AF%E5%8A%A0%E6%95%B0.cpp)|Medium|回溯|
 
 ### 6. 位运算
 |NO.|Title|Solution|Difficulty|Tip|
