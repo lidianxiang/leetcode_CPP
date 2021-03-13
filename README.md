@@ -196,3 +196,4 @@ leetcode with CPP
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/190-%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.cpp)|Easy|位运算|
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/191-%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.cpp)|Easy|位运算|
 |201|[数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/201-%E6%95%B0%E5%AD%97%E8%8C%83%E5%9B%B4%E6%8C%89%E4%BD%8D%E4%B8%8E.cpp)|Medium|位运算|
+|231|[2的幂](https://leetcode-cn.com/problems/power-of-two/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/231-2%E7%9A%84%E5%B9%82.cpp)|Easy|位运算|
