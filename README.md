@@ -22,6 +22,7 @@ leetcode with CPP
 |219|[存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/219-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.cpp)|Easy|哈希、滑动窗口|
 |268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/268-%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.cpp)|Easy|数学、异或|
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/283-%E7%A7%BB%E5%8A%A8%E9%9B%B6.cpp)|Easy|双指针|
+|303|[区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/303-%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2-%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.cpp)|Easy|前缀和|
 |509|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/509-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.cpp)|Easy||
 |867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/867-%E8%BD%AC%E7%BD%AE%E7%9F%A9%E9%98%B5.cpp)|Easy||
 |977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.cpp)|Easy|双指针|
