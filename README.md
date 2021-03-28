@@ -188,6 +188,7 @@ leetcode with CPP
 |140|[单词拆分](https://leetcode-cn.com/problems/word-break-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/140-%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86II.cpp)|Hard|回溯|
 |216|[组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/216-%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CIII.cpp)|Medium|回溯|
 |306|[累加数](https://leetcode-cn.com/problems/additive-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/306-%E7%B4%AF%E5%8A%A0%E6%95%B0.cpp)|Medium|回溯|
+|784|[字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/784-%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.cpp)|Medium|回溯|
 |797|[所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/797-%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84.cpp)|Medium|回溯|
 
 ### 6. 位运算
