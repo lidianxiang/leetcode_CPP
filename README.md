@@ -214,3 +214,9 @@ leetcode with CPP
 |784|[字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/784-%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.cpp)|Medium|位运算|
 |1290|[二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/1290-%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%95%B4%E6%95%B0.cpp)|Easy|位运算|
 |1486|[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/1486-%E6%95%B0%E7%BB%84%E5%BC%82%E6%88%96%E6%93%8D%E4%BD%9C.cpp)|Easy|模拟法|
+
+
+### 7. 前缀树
+|NO.|Title|Solution|Difficulty|Tip|
+|:---:|:----------:|:---------:|:----:|:----:|
+|208|[实现Trie前缀树](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%89%8D%E7%BC%80%E6%A0%91/208-%E5%AE%9E%E7%8E%B0Trie(%E5%89%8D%E7%BC%80%E6%A0%91).cpp)|Medium||
