@@ -222,3 +222,9 @@ leetcode with CPP
 |:---:|:----------:|:---------:|:----:|:----:|
 |208|[实现Trie前缀树](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%89%8D%E7%BC%80%E6%A0%91/208-%E5%AE%9E%E7%8E%B0Trie(%E5%89%8D%E7%BC%80%E6%A0%91).cpp)|Medium||
 |211|[添加和搜索单词-数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%89%8D%E7%BC%80%E6%A0%91/211-%E6%B7%BB%E5%8A%A0%E5%92%8C%E6%90%9C%E7%B4%A2%E5%8D%95%E8%AF%8D-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.cpp)|Medium||
+
+
+### 8. 动态规划
+|NO.|Title|Solution|Difficulty|Tip|
+|:---:|:----------:|:---------:|:----:|:----:|
+|5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/5-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.cpp)|Medium|动态规划、中心扩展法、暴力求解|
