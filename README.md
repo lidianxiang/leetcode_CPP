@@ -228,3 +228,4 @@ leetcode with CPP
 |NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/5-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.cpp)|Medium|动态规划、中心扩展法、暴力求解|
+|53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp)|Easy|动态规划、线段树|
