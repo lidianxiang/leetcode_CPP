@@ -232,3 +232,4 @@ leetcode with CPP
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/62-%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.cpp)|Medium|动态规划|
 |63|[不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/63-%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84II.cpp)|Medium|动态规划|
 |392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/392-%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.cpp)|Medium|双指针、动态规划|
+|746|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/746-%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp)|Easy|动态规划|
