@@ -175,6 +175,7 @@ leetcode with CPP
 |925|[长按键入](https://leetcode-cn.com/problems/long-pressed-name/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/925-%E9%95%BF%E6%8C%89%E9%94%AE%E5%85%A5.cpp)|Easy|双指针|
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/929-%E7%8B%AC%E7%89%B9%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80.cpp)|Easy||
 |937|[重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/937-%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6.cpp)|Easy|stable_sort|
+|剑指 offer-48|[最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%89%91%E5%80%BCoffer-48-%E6%9C%80%E9%95%BF%E4%B8%8D%E5%90%AB%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|Medium|滑动窗口|
 
 ### 5. 回溯
 |NO.|Title|Solution|Difficulty|Tip|
