@@ -5,6 +5,7 @@ leetcode with CPP
 |NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)|Easy|Mapping|
+|15|[三数之和](https://leetcode-cn.com/problems/3sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/15-%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)|Medium|排序+双指针|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/26-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.cpp)|Easy|双指针|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.cpp)|Easy||
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/35-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp)|Easy|二分查找|
