@@ -282,3 +282,9 @@ leetcode with CPP
 |931|[下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/931-%E4%B8%8B%E9%99%8D%E8%B7%AF%E5%BE%84%E6%9C%80%E5%B0%8F%E5%92%8C.cpp)|Medium|动态规划|
 |1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1025-%E9%99%A4%E6%95%B0%E5%8D%9A%E5%BC%88.cpp)|Easy|动态规划|
 |1143|[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1143-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.cpp)|Medium|动态规划|
+
+
+### 9. 二分查找
+|NO.|Title|Solution|Difficulty|Tip|
+|:---:|:----------:|:---------:|:----:|:----:|
+|69|[x的平方根](https://leetcode-cn.com/problems/sqrtx/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/69-x%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.cpp)|Easy|二分查找|
