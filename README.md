@@ -290,4 +290,5 @@ leetcode with CPP
 ### 9. 二分查找
 |NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
+|33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/33-%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)|Medium|二分查找|
 |69|[x的平方根](https://leetcode-cn.com/problems/sqrtx/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/69-x%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.cpp)|Easy|二分查找|
