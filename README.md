@@ -32,6 +32,7 @@ leetcode with CPP
 |912|[排序数组](https://leetcode-cn.com/problems/sort-an-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/912-%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)|Medium|快速排序、堆排序、归并排序|
 |977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.cpp)|Easy|双指针|
 |1588|[所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1588-%E6%89%80%E6%9C%89%E5%A5%87%E6%95%B0%E9%95%BF%E5%BA%A6%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%92%8C.cpp)|Easy|动态规划、滑动窗口|
+|剑指 offer59|[队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/%E5%89%91%E5%80%BCoffer-59-%E9%98%9F%E5%88%97%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.cpp)|Medium|双端队列|
 
 ### 2.链表
 |NO.|Title|Solution|Difficulty|Tip|
