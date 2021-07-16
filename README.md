@@ -10,6 +10,7 @@ leetcode with CPP
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.cpp)|Easy||
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/35-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp)|Easy|二分查找|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp)|Easy|动态规划|
+|54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/54-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.cpp)|Medium|模拟法|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/66-%E5%8A%A0%E4%B8%80.cpp)|Easy||
 |88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/88-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)|Easy||
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/118-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.cpp)|Easy||
