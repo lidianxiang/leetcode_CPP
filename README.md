@@ -9,6 +9,7 @@ leetcode with CPP
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/26-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.cpp)|Easy|双指针|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.cpp)|Easy||
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/35-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp)|Easy|二分查找|
+|48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/48-%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.cpp)|Medium|辅助数组、水平翻转+对角线翻转|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp)|Easy|动态规划|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/54-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.cpp)|Medium|模拟法|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/66-%E5%8A%A0%E4%B8%80.cpp)|Easy||
