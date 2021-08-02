@@ -25,6 +25,7 @@ leetcode with CPP
 |135|[分发糖果](https://leetcode-cn.com/problems/candy/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/135-%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.cpp)|Hard|两次遍历|
 |167|[两数之和II-数组有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8CII-%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)|Easy|双指针|
 |169|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/169-%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.cpp)|Easy|哈希、众数、Boyer-Moore|
+|179|[最大数](https://leetcode-cn.com/problems/largest-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/179-%E6%9C%80%E5%A4%A7%E6%95%B0.cpp)|Medium|贪心|
 |200|[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/200-%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.cpp)|Medium|bfs、dfs|
 |207|[课程表](https://leetcode-cn.com/problems/course-schedule/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/207-%E8%AF%BE%E7%A8%8B%E8%A1%A8.cpp)|Medium|bfs、dfs|
 |210|[课程表II](https://leetcode-cn.com/problems/course-schedule-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/210-%E8%AF%BE%E7%A8%8B%E8%A1%A8II.cpp)|Medium|dfs+栈|
